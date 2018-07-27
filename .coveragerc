@@ -1,0 +1,5 @@
+[run]
+include = blogZinnia/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
